@@ -1,0 +1,3 @@
+en vite
+
+npm run dev equivale a npm start en create react app
